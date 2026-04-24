@@ -82,7 +82,7 @@
         ],
         "optional_field_name": "Optional Field",
         "build": "1694556630",
-        "no_sort_characters": [],
+        "no_sort_characters": ["()"],
         "sorting_field": "word",
         "l1_keys_to_index": [
             "word"
